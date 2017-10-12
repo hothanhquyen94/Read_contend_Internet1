@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity {
 //            Log.v("CHECK_DATE", values[i]);
 //        }
         // hothanhquyen them vao git
+        //aaaaaaaaaaaaaaa
 
         yLabel.setText(values[0]);
         mLabel.setText(values[1]);
